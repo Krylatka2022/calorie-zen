@@ -1,4 +1,5 @@
-# [Calorie-zen](https://krylatka2022.github.io/calorie-zen/)
+# Calorie-zen
+<!--[Calorie-zen](https://krylatka2022.github.io/calorie-zen/)-->
 
 Проект из теории Яндекс.Практикум
 Не является обязательным, но без него невозможно продвинуться в изучении программы по основам React на курсе "веб-разработчик".
@@ -18,6 +19,6 @@
 - React
 - API
 
-### Ссылка на сайт:
+<!--### Ссылка на сайт:
 
-[Calorie-zen](https://krylatka2022.github.io/calorie-zen/)
+[Calorie-zen](https://krylatka2022.github.io/calorie-zen/)-->
